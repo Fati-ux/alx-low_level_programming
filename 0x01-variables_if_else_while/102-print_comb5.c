@@ -13,16 +13,16 @@ int d;
 int e;
 int f = 0;
 
-while (f < 10)
+while (f < 8)
 {
 	e = 0;
-	while (e < 9)
+	while (e < 8)
 	{
 		d = 0;
-		while (d < 9)
+		while (d < 8)
 		{
 			c = 0;
-			while (c < 9)
+			while (c < 8)
 			{
 				if (!(f == c && e == d))
 				{
