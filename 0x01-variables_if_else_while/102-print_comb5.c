@@ -22,7 +22,7 @@ while (f < 10)
 		while (d < 10)
 		{
 			c = 0;
-			while (c < 10)
+			while (c < 9)
 			{
 				if (!(f == c && e == d))
 				{
