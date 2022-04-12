@@ -7,9 +7,9 @@
 
 int main(void)
 {
-char c[7] = "school";
+char c[9] = "_putchar";
 int i = 0;
-while (i < 6)
+while (i < 8)
 {
 _putchar(c[i]);
 i++;
